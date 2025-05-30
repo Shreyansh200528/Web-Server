@@ -1,0 +1,11 @@
+{
+  "name": "static-server",
+  "version": "1.0.0",
+  "description": "Simple HTTP static file server with 404 and 403 handling",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
