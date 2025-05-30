@@ -37,6 +37,9 @@ Clone the repository or copy the files.
     -Stop accepting new connections.
     -Close all open client socket.
 
+## Deployable link-
+https://web-server-1-f5b3.onrender.com
+
 
   ## Log
   Example logs look like -
